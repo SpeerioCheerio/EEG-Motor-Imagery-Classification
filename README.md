@@ -1,4 +1,4 @@
-# EEG Motor Imagery Classification: ML Project 1
+# EEG Motor Imagery Classification
 
 ## Overview
 
